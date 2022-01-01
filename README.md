@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Kumar
+- 👋 Hi, I’m Sai Kumar completed b.tech
 - 👀 I’m interested in full stack web developer role.
 - 🌱 I’m currently learning web technologies like html, css, javascript etc.
 - 💞️ I’m looking to collaborate on ...
